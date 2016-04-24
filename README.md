@@ -88,7 +88,7 @@ examples scenario on the assignment sheet
     * [rules.go](service/rules/rules.go): Rule interface specification.
     * [tshirt.go](service/rules/tshirt.go): T-Shirt Rule implementation.
     * [voucher.go](service/rules/voucher.go): Voucher Rule implementation.
-* `model/`: Contains the `service` package files.
+* `model/`: Contains the `model` package files.
   * [cart.go](model/cart.go): Represents the cart model as a struct wrapper around a slice of Items,
  a constructor and methods for adding, getting the price-sum and counting by product-code.
   * [item.go](model/item.go): Represents the item model with a constructor and data of available
