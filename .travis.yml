@@ -9,6 +9,9 @@ before_install:
   - go get github.com/onsi/ginkgo
   - go get golang.org/x/tools/cmd/cover
 
+install:
+  - go get -t -v -d github.com/filiptc/store/...
+
 script:
   - bash test.sh
 
