@@ -1,0 +1,45 @@
+
+mode: atomic
+github.com/filiptc/store/model/cart.go:8.36,10.2 1 2
+github.com/filiptc/store/model/cart.go:12.33,14.2 1 7
+github.com/filiptc/store/model/cart.go:16.42,18.31 2 0
+github.com/filiptc/store/model/cart.go:21.2,21.14 1 0
+github.com/filiptc/store/model/cart.go:18.31,20.3 1 0
+github.com/filiptc/store/model/cart.go:24.57,26.31 2 3
+github.com/filiptc/store/model/cart.go:31.2,31.14 1 3
+github.com/filiptc/store/model/cart.go:26.31,27.24 1 12
+github.com/filiptc/store/model/cart.go:27.24,29.4 1 4
+github.com/filiptc/store/model/item.go:21.42,22.30 1 5
+github.com/filiptc/store/model/item.go:25.2,25.46 1 0
+github.com/filiptc/store/model/item.go:22.30,24.3 1 5
+mode: atomic
+github.com/filiptc/store/service/checkout.go:17.48,25.2 3 3
+github.com/filiptc/store/service/checkout.go:27.44,30.16 3 1
+github.com/filiptc/store/service/checkout.go:34.2,34.12 1 1
+github.com/filiptc/store/service/checkout.go:36.2,36.12 1 1
+github.com/filiptc/store/service/checkout.go:30.16,32.3 1 0
+github.com/filiptc/store/service/checkout.go:34.12,34.31 1 1
+github.com/filiptc/store/service/checkout.go:39.39,42.2 2 1
+github.com/filiptc/store/service/checkout.go:44.35,45.6 1 4
+github.com/filiptc/store/service/checkout.go:45.6,50.3 4 6
+github.com/filiptc/store/service/checkout.go:53.49,54.31 1 2
+github.com/filiptc/store/service/checkout.go:54.31,55.38 1 0
+github.com/filiptc/store/service/checkout.go:55.38,57.4 1 0
+mode: atomic
+github.com/filiptc/store/service/rules/tshirt.go:11.33,13.2 1 1
+github.com/filiptc/store/service/rules/tshirt.go:15.73,17.2 1 2
+github.com/filiptc/store/service/rules/tshirt.go:19.43,20.34 1 1
+github.com/filiptc/store/service/rules/tshirt.go:20.34,21.28 1 3
+github.com/filiptc/store/service/rules/tshirt.go:21.28,23.4 1 3
+github.com/filiptc/store/service/rules/tshirt.go:27.57,29.2 1 3
+github.com/filiptc/store/service/rules/voucher.go:11.35,13.2 1 1
+github.com/filiptc/store/service/rules/voucher.go:15.74,16.28 1 6
+github.com/filiptc/store/service/rules/voucher.go:19.2,23.66 4 5
+github.com/filiptc/store/service/rules/voucher.go:16.28,18.3 1 1
+github.com/filiptc/store/service/rules/voucher.go:26.44,27.34 1 1
+github.com/filiptc/store/service/rules/voucher.go:27.34,28.49 1 1
+github.com/filiptc/store/service/rules/voucher.go:28.49,31.4 2 1
+github.com/filiptc/store/service/rules/voucher.go:35.46,37.34 2 7
+github.com/filiptc/store/service/rules/voucher.go:44.2,44.26 1 7
+github.com/filiptc/store/service/rules/voucher.go:37.34,38.49 1 17
+github.com/filiptc/store/service/rules/voucher.go:38.49,40.12 2 4
